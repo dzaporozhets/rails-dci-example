@@ -6,4 +6,8 @@ module DocumentOwner
   def get_documents
     Document.where(:user_id => self.id)
   end
+
+  def get_document id
+    Document.find_by_id(id)
+  end
 end

@@ -1,3 +1,9 @@
+require "documents/all_context" 
+require "documents/create_context" 
+require "documents/get_context" 
+require "documents/update_context" 
+require "documents/destroy_context" 
+
 class DocumentsController < ApplicationController
   def index
     @documents = Documents::AllContext.new(current_user).execute
