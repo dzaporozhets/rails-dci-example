@@ -3,7 +3,7 @@ module Documents
     attr_accessor :user, :id
 
     def initialize(user, id)
-      @user, @params = user, id
+      @user, @id = user, id
     end
 
     def execute
