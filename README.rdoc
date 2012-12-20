@@ -1,4 +1,5 @@
-Some links about DCI & Rails:
-  http://mikepackdev.com/blog_posts/24-the-right-way-to-code-dci-in-ruby/
-  http://mikepackdev.com/blog_posts/26-dci-role-injection-in-ruby
-  http://andrzejonsoftware.blogspot.com/2012/01/dci-and-rails-lessons-learnt.html
+=== Some links about DCI & Rails:
+  
+[http://mikepackdev.com/blog_posts/24-the-right-way-to-code-dci-in-ruby]
+[http://mikepackdev.com/blog_posts/26-dci-role-injection-in-ruby]
+[http://andrzejonsoftware.blogspot.com/2012/01/dci-and-rails-lessons-learnt.html]
